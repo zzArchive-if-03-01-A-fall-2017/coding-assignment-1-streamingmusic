@@ -1,0 +1,37 @@
+body{
+  font-family: Helvetica, sans-serif;
+  text-align: justify;
+  background-color: #E6E6E6;
+  color: #424949;
+}
+
+h1{
+  font-size: 35px;
+  text-align: center;
+  text-transform: capitalize;
+  font-family: 'Garamond';
+  color: #0E6655;
+}
+h2{
+  text-align: left;
+  color: #117A65;
+  font-family: 'Satisfy', cursive;
+  margin-bottom: 10px;
+}
+h3{
+  text-align: left;
+  color:#138D75;
+  font-family: 'Satisfy', cursive;
+  margin-bottom: 10px;
+}
+
+a:visited{
+  color:#1B4F72;
+}
+a:link{
+  color: #2E86C1;
+}
+
+ul{
+  list-style-type: disc;
+}
